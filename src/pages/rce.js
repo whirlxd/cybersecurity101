@@ -69,11 +69,11 @@ Preventing RCE attacks requires a multi-layered approach to security, including 
 Remote Code Execution is a powerful and dangerous attack vector that can lead to total system compromise, data breaches, and significant financial and reputational damage. Understanding the mechanics of RCE and implementing robust security measures is crucial for protecting web applications and systems from this formidable threat. By adopting secure coding practices, maintaining up-to-date systems, and employing proactive monitoring, organizations can defend against RCE and safeguard their critical assets. The key to preventing RCE lies in a comprehensive approach to security, encompassing both technical defenses and a commitment to ongoing vigilance.`;
 
 const Page = {
-  title: "Understanding Remote Code Execution (RCE) and Its Impacts",
-  url: "/remote-code-execution",
-  author: "Ayaan Hashmi",
-  time: "10",
-  body: content,
+	title: "Understanding Remote Code Execution (RCE) and Its Impacts",
+	url: "/remote-code-execution",
+	author: "My Partner",
+	time: "10",
+	body: content,
 };
 
 export default Page;

@@ -57,10 +57,10 @@ Preventing LFI and RFI attacks requires a comprehensive approach to input valida
 LFI and RFI attacks represent a significant threat to web application security, with the potential to compromise sensitive data, execute arbitrary code, and disrupt services. By understanding the mechanics of these attacks and implementing robust defense mechanisms, developers and security professionals can protect their applications from unauthorized file access. The key to preventing LFI and RFI lies in secure file handling practices, rigorous input validation, and a proactive approach to security monitoring.`;
 
 const Page = {
-  title: "Understanding LFI/RFI Attacks and Their Defense",
-  url: "/file-inclusion-attacks",
-  author: "Ayaan Hashmi",
-  time: "8",
-  body: content,
+	title: "Understanding LFI/RFI Attacks and Their Defense",
+	url: "/file-inclusion-attacks",
+	author: "My Partner",
+	time: "8",
+	body: content,
 };
 export default Page;

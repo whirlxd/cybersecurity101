@@ -139,10 +139,10 @@ Environment variables are an essential aspect of modern software development, pr
 Incorporating best practices for managing environment variables ensures that applications remain robust and easy to configure, ultimately leading to a more efficient development process. As software development continues to evolve, mastering the use of environment variables will remain a critical skill for developers looking to create scalable and secure applications.`;
 
 const Page = {
-  title: "Understanding Environment Variables: A Comprehensive Guide",
-  url: "/env",
-  author: "Ayaan Hashmi",
-  time: "10",
-  body: content,
+	title: "Understanding Environment Variables: A Comprehensive Guide",
+	url: "/env",
+	author: "My Partner",
+	time: "10",
+	body: content,
 };
 export default Page;

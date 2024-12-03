@@ -52,10 +52,10 @@ Preventing SQL Injection requires a combination of secure coding practices, inpu
 
 SQL Injection remains one of the most dangerous threats to web application security, with the potential to cause widespread damage to both data integrity and system functionality. By understanding the mechanisms behind SQL Injection and implementing robust defense strategies, developers and security professionals can protect their databases from this silent yet deadly threat. The key to preventing SQL Injection lies in secure coding practices, thorough input validation, and a commitment to ongoing security vigilance.`;
 const Page = {
-  title: "Understanding SQL Injection: Risks and Defenses",
-  url: "/sql-injection",
-  author: "Ayaan Hashmi",
-  time: "10",
-  body: content,
+	title: "Understanding SQL Injection: Risks and Defenses",
+	url: "/sql-injection",
+	author: "My Partner",
+	time: "10",
+	body: content,
 };
 export default Page;

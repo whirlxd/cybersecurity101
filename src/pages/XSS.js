@@ -42,10 +42,10 @@ Defending against XSS attacks requires a multi-layered approach that involves bo
 
 XSS attacks represent a significant threat to web security, exploiting vulnerabilities in how web applications handle user input. By understanding the types of XSS attacks and implementing robust defense mechanisms, both developers and users can work together to create a safer online environment. The key to preventing XSS attacks lies in rigorous input validation, secure coding practices, and staying vigilant against emerging threats.`;
 const Page = {
-  title: "Understanding XSS Attacks in Web Development",
-  url: "/xss-attacks",
-  author: "Ayaan Hashmi",
-  time: "7",
-  body: content,
+	title: "Understanding XSS Attacks in Web Development",
+	url: "/xss-attacks",
+	author: "My Partner",
+	time: "7",
+	body: content,
 };
 export default Page;

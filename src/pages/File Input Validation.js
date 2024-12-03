@@ -28,11 +28,11 @@ The author also highlights the importance of verifying the content type of uploa
 In conclusion, the article presents a comprehensive approach to file input validation that balances user experience with security. By leveraging the \`accept\` attribute and implementing additional validation checks, developers can create forms that are both user-friendly and secure. This methodology not only enhances the user experience by preventing errors but also protects the application from potential threats posed by invalid file uploads.`;
 
 const Page = {
-  title: "Validating File Inputs in Web Applications",
-  url: "/file-input-validation",
-  author: "Ayaan Hashmi",
-  time: "5",
-  body: content,
+	title: "Validating File Inputs in Web Applications",
+	url: "/file-input-validation",
+	author: "My Partner",
+	time: "5",
+	body: content,
 };
 
 export default Page;

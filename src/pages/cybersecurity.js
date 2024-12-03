@@ -56,12 +56,12 @@ Expand your cybersecurity knowledge with these resources:
 Cybersecurity is an ongoing journey that demands vigilance, education, and proactive measures. By understanding the threat landscape, building a comprehensive strategy, leveraging advanced tools, and staying informed, you can significantly reduce the risk of cyberattacks and ensure your digital presence remains secure.`;
 
 const Page = {
-  title:
-    "Fortify Your Digital Defenses: A Comprehensive Guide to Cybersecurity",
-  url: "/cybersecurity",
-  author: "Ayaan Hashmi",
-  time: "8",
-  body: content,
+	title:
+		"Fortify Your Digital Defenses: A Comprehensive Guide to Cybersecurity",
+	url: "/cybersecurity",
+	author: "My Partner",
+	time: "8",
+	body: content,
 };
 
 export default Page;

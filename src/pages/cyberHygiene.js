@@ -96,10 +96,10 @@ On the technical side, key email security practices include:
 
 Ultimately, good cyber hygiene is not a one-time task, but an ongoing, dynamic process that requires the sustained effort and engagement of both organizations and their employees. By making cyber hygiene a priority and consistently following best practices, enterprises can significantly improve their overall security posture and resilience against the ever-evolving threat landscape.`;
 const Page = {
-  title: "Understanding Cyber Hygiene Best Practices",
-  url: "/cyber-hygiene",
-  author: "Ayaan Hashmi",
-  time: "8",
-  body: content,
+	title: "Understanding Cyber Hygiene Best Practices",
+	url: "/cyber-hygiene",
+	author: "My Partner",
+	time: "8",
+	body: content,
 };
 export default Page;

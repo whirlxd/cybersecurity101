@@ -109,10 +109,10 @@ Best Practices for Form Validation
 
 Client-side form validation is an essential aspect of web development that enhances user experience and data integrity. By utilizing built-in HTML validation features and JavaScript for custom logic, developers can create effective forms that guide users in providing the correct information. However, it is vital to remember that client-side validation should be complemented by robust server-side checks to ensure security and reliability. Implementing these practices will lead to more user-friendly and secure web applications.`;
 const Page = {
-  title: "Learning Form Validation in Web Development",
-  url: "/form-validation",
-  author: "Ayaan Hashmi",
-  time: "7",
-  body: content,
+	title: "Learning Form Validation in Web Development",
+	url: "/form-validation",
+	author: "My Partner",
+	time: "7",
+	body: content,
 };
 export default Page;

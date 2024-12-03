@@ -39,8 +39,4 @@ npm run dev
 ```
 
 #### License
-
 [GPL-3.0 License](LICENSE)
-
-<br></br>
-<b>Made by Team Mayoor </b>

@@ -142,7 +142,7 @@ const Quiz = () => {
 							<p>
 								<strong>AT THE CYBER SEC 101 SITE</strong>
 							</p>
-							<p>DEVELOPED BY MAYOOR TEAM</p>
+							<p>DEVELOPED BY WHIRLXD</p>
 						</div>
 
 						<div
